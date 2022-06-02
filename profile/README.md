@@ -1,6 +1,6 @@
-# Project Overview
+## Overview
 
-This Github organization hosts the files relating to the Beggars Opera project
+This Beggars Opera Github organization hosts the files relating to the Beggars Opera project.
 
 The [TEI-MEI](https://github.com/BeggarsOpera/TEI-MEI) repository contains up-to-date XML files of the TEI and MEI markup of the digital edition.
 
