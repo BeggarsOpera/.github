@@ -15,3 +15,4 @@ Fred Rowland
 Anne Harlow  
 Jack Krick  
 Alex Wermer-Colan  
+Marcus Deloach
