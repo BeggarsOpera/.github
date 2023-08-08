@@ -12,7 +12,7 @@ The [BeggarsOpera.Github.io](https://github.com/BeggarsOpera/BeggarsOpera.github
 
 Steve Newman  
 Fred Rowland  
-Anne Harlow  
+Becca Fulop 
 Jack Krick  
 Alex Wermer-Colan  
 Marcus Deloach
